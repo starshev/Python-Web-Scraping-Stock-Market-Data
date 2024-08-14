@@ -6,5 +6,5 @@ The task is to extract stock market data for specific companies by making HTTP r
 
 **Skills**
 
-Conducting HTTP requests using Requests library  
+HTTP requests
 Web Scraping using Pandas, BeautifulSoup and YFinance libraries
