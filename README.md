@@ -1,13 +1,15 @@
 # Web Scraping for Stock Market Data with Python
 
-### Project Overview
-Extracted stock market data for specific companies by performing web scraping with Python. Used HTTP requests, BeautifulSoup, and YFinance to gather and parse data, then organized it with Pandas for further analysis.
+### Task
+Extract stock market data for selected companies using web scraping techniques in Python, organize the data, and prepare it for analysis.
 
-### Key Skills
-HTTP requests with Requests, web scraping and HTML parsing using BeautifulSoup, stock data extraction with YFinance, and HTML parsing with Pandas.
+### Skills
+Sending HTTP requests with Requests, scraping and parsing HTML using BeautifulSoup, retrieving stock data using YFinance, structuring and parsing data with Pandas.
 
-### Описание проекта
-Извлечены данные фондового рынка для определённых компаний с помощью веб-скрейпинга на Python. Использовались HTTP-запросы, BeautifulSoup и YFinance для сбора и парсинга данных, которые затем структурированы с помощью Pandas для дальнейшего анализа.
+# Веб-скрейпинг данных фондового рынка с использованием Python
 
-### Ключевые навыки
-HTTP-запросы с использованием Requests, веб-скрейпинг и парсинг HTML с помощью BeautifulSoup, извлечение данных о фондовом рынке с использованием YFinance и парсинг HTML с помощью Pandas.
+### Задача
+Извлечь данные фондового рынка для заданного списка компаний с помощью веб-скрейпинга на Python, структурировать их и подготовить к анализу.
+
+### Навыки
+HTTP-запросы с использованием Requests, веб-скрейпинг и парсинг HTML с помощью BeautifulSoup, извлечение данных о фондовом рынке с использованием YFinance, структурирование и парсинг данных с помощью Pandas.
